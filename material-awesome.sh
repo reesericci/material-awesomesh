@@ -1,4 +1,4 @@
-sudo pacman -Sy awesome rofi lxappearance yay pkg-config make fakeroot --noconfirm
+sudo pacman -Sy awesome rofi lxappearance yay pkg-config make fakeroot networkmanager --noconfirm
 yay -Sy i3lock-fancy --noconfirm
 git clone https://github.com/tryone144/compton.git
 cd compton
