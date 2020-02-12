@@ -6,3 +6,7 @@ This script does 3 things:
 1. Installs awesome window manager and all its dependencies
 2. Installs all the required packages for the material-awesome config
 3. Installs teh material-awesome config
+
+# How to install
+1.run the command `curl -L -O https://raw.githubusercontent.com/reesericci/material-awesomesh/releases/v1.0/material-awesome.sh` then run `chmod +x material-awesome.sh`
+2. run the command `material-awesome.sh`
