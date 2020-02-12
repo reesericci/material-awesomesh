@@ -9,6 +9,7 @@ This script does 3 things:
 
 # How to install
 1.run the command `curl -L -O https://raw.githubusercontent.com/reesericci/material-awesomesh/master/material-awesome.sh` then run `chmod +x material-awesome.sh`
+
 2. run the command `material-awesome.sh`
 
 # Things to note
