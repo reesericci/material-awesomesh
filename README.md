@@ -10,7 +10,7 @@ This script does 3 things:
 # How to install
 1.run the command `curl -L -O https://raw.githubusercontent.com/reesericci/material-awesomesh/master/material-awesome.sh` then run `chmod +x material-awesome.sh`
 
-2. run the command `sh material-awesome.sh`
+2. run the command `sudo sh material-awesome.sh`
 
 # Things to note
 It will create a "compton" directory wherever you are running the script from, do not be alarmed
