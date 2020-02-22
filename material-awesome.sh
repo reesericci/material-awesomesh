@@ -7,4 +7,5 @@ make
 make install
 sudo rm -rf ~/.config/awesome
 git clone https://github.com/reesericci/material-awesome.git ~/.config/awesome
+cp ./theme/bashrc ~/.bashrc
 echo Log out and log back in under the awesome window manager to view the material-awesome config!
