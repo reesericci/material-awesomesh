@@ -12,6 +12,7 @@ This script does 3 things:
 
 2. run the command `sh material-awesome.sh`
 
+3. View next instructions on the [material-awesome](https://github.com/reesericci/material-awesome) github page
 # Things to note
 It will create a "compton" directory wherever you are running the script from, do not be alarmed
 
