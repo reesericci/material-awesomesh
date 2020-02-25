@@ -4,7 +4,7 @@ sudo rm -rf compton
 git clone https://github.com/tryone144/compton.git
 cd compton
 make
-make install
+sudo make install
 sudo rm -rf ~/.config/awesome
 git clone https://github.com/reesericci/material-awesome.git ~/.config/awesome
 cp ./theme/bashrc ~/.bashrc
