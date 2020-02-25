@@ -1,4 +1,4 @@
-## This Repo is DEPRECATED because I have written a PKGBUILD and this script is not needed. Please visit the [main repo](https://github.com/reesericci/material-awesome) to download it.
+### This repo is DEPRECATED because I have written a PKGBUILD and this script is not needed. Please visit the [main repo](https://github.com/reesericci/material-awesome) to download it.
 
 # material-awesomeSH
 An easy way to install my material-awesome config for awesome window manager on Arch Linux/Manjaro
